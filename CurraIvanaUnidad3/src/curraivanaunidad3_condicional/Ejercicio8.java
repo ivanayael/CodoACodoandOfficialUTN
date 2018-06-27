@@ -8,8 +8,8 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *8. Calcular el mayor de tres números enteros en Java.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio8 { 
      public static Scanner s = new Scanner (System.in);

@@ -8,11 +8,10 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
- * @author Ivana Yael Curra
  * 4. Programa que lea una cantidad de 
  * grados centígrados y la pase a grados Fahrenheit. 
  * La fórmula correspondiente es: F = 32 + ( 9 * C / 5)
+ * @author Ivana Yael Currá
  */
 
 public class Ejercicio4 {

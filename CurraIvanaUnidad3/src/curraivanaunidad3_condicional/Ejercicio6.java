@@ -8,8 +8,8 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *6. Programa que lea un carácter y compruebe si es un número (Carácter entre '0' y '9').
+ * @author Ivana Yael Currá
  */
 public class Ejercicio6 {
     public static Scanner s = new Scanner (System.in);

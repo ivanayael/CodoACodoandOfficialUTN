@@ -8,8 +8,8 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *5. Programa que lea dos caracteres y compruebe si son dos letras minúsculas.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio5 {
     public static Scanner s = new Scanner (System.in);

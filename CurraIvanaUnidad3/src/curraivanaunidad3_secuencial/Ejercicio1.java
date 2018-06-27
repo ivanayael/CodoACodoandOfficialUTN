@@ -8,7 +8,7 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
+ *1. Programa Java que lea dos números enteros por teclado y los muestre por pantalla.
  * @author Ivana Yael Currá
  */
 public class Ejercicio1 {

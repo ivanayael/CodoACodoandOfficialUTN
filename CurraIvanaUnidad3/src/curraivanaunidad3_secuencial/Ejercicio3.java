@@ -8,8 +8,9 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
- * @author Ivana Yael Curra
+ *3. Programa Java que lee un número entero por teclado y 
+ * obtiene y muestra por pantalla el doble y el triple de ese número.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio3 {
     

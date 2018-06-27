@@ -8,8 +8,8 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *3. Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio3 {
     public static Scanner s = new Scanner (System.in);

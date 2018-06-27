@@ -8,8 +8,10 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *7. Programa que lea dos números por teclado y muestre el resultado de
+ * la división del primero por el segundo. 
+ * Se debe comprobar que el divisor no puede ser cero. 
+ * @author Ivana Yael Currá
  */
 public class Ejercicio7 {
       public static Scanner s = new Scanner (System.in);

@@ -8,8 +8,8 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *9. Programa que calcula el área de un triángulo a partir de la longitud de sus lados.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio9 {
     

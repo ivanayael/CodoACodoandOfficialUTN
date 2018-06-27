@@ -8,8 +8,8 @@ package curraivanaunidad3_condicional;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *2. Programa que lea un número entero y muestre si el número es múltiplo de 10.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio2 {
     public static Scanner s = new Scanner (System.in);

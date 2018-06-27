@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author currai
  * 8. Programa que calcula el volumen de una esfera.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio8 {
      public static Scanner s = new Scanner (System.in);

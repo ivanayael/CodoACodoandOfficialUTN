@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *7. Programa lea la longitud de los catetos de un triángulo rectángulo
  * y calcule la longitud de la hipotenusa según el teorema de Pitágoras.
- * @author currai
+ * @author Ivana Yael Currá
  */
 public class Ejercicio7 {
       public static Scanner s = new Scanner (System.in);

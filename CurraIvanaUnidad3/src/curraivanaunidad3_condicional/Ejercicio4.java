@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * 4. Programa que lea dos caracteres por teclado y compruebe si son iguales.
- * @author currai
+ * @author Ivana Yael Currá
  */
 public class Ejercicio4 {
     public static Scanner s = new Scanner (System.in);

@@ -12,8 +12,9 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
+ *13. Programa que calcula el número de la suerte de una persona
+ * a partir de su fecha de nacimiento.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio13 {
     public static Scanner s = new Scanner (System.in);

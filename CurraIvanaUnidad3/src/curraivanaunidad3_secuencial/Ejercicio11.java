@@ -8,11 +8,10 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
- * 
  * 11. Programa que lea un número entero N de 5 cifras 
  * y muestre sus cifras desde el principio como en el ejemplo.
+ * @author Ivana Yael Currá
+ * 
  */
 public class Ejercicio11 {
     

@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * 1. Programa Java que lea un número entero y calcule si es par o impar.
- * @author currai
+ * @author Ivana Yael Currá
  */
 public class Ejercicio1 {
     

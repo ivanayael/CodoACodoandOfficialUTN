@@ -8,9 +8,9 @@ package curraivanaunidad3_secuencial;
 import java.util.Scanner;
 
 /**
- *
- * @author currai
- * 10. Programa que lee un número de 3 cifras y muestra sus cifras por separado.
+ *10. Programa que lee un número de 3 cifras y muestra sus cifras por separado.
+ * @author Ivana Yael Currá
+ * 
  */
 public class Ejercicio10 {
     

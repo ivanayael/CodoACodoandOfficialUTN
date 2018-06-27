@@ -7,8 +7,9 @@ package curraivanaunidad3_secuencial;
 
 import java.util.Scanner;
 /**
- *
- * @author Ivana Yael Curra
+ *2. Programa Java que lea un nombre 
+ * y muestre por pantalla: “Buenos dias nombre_introducido”.
+ * @author Ivana Yael Currá
  */
 public class Ejercicio2 {
     
