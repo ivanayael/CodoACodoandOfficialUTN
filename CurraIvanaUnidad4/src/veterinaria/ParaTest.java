@@ -12,6 +12,19 @@ package veterinaria;
 public class ParaTest {
     public static void main(String[] args) {
         // Se agregan a las mascotas
+        
+        int A = 53;
+        int B = 1953786;
+        
+        String binaryA = Integer.toBinaryString(A);
+        String binaryB = Integer.toBinaryString(B);
+        
+        
+        int indexOf = binaryB.indexOf(binaryA);
+        
+        System.out.println(indexOf);
+        
+        
         Veterinaria veterinaria= new Veterinaria();
         veterinaria.setMascota("gonzalo","perro","labrador",3,"Problemas para caminar");
         veterinaria.setMascota("mimosa","gato","siames",5,"Fiebre");
@@ -45,7 +58,6 @@ public class ParaTest {
 	veterinaria.setMedico("Ariel Devello");
 			
 	//Se realiza la atención de las mascotas por los doctores
-        
         veterinaria.setAtencion(0,1, "Infeccion cutanea", new String[]{"Falta de limpieza"}, new String[]{"desinflamatorio"});
         veterinaria.setAtencion(1,2, "Esguince", new String[]{"Falta de ejercicio"}, new String[]{"reposo en el hogar"});
         veterinaria.setAtencion(2,3, "Rotura", new String[]{"Accidente grave"}, new String[]{"bendas y cuello ortopédico"});
