@@ -48,6 +48,7 @@ public class ParaTest {
 			
 	//Se realiza la asignacion de los boxeadores por los entrenadores
 
+       // int numeroHeladero,int numeroCliente, int numeroDespachante, int Tipo, 
         heladeria.setPedido(0,1,0,1, "Menta granizada", "Chocolate", "0", "0", "0");
         heladeria.setPedido(1,2,1,2, "Sambayon", "Banana Split", "Dulce de Leche", "0", "2");
         heladeria.setPedido(2,3,2,3, "Limon", "Mascarpone", "Frutilla", "Vainilla", "3");
